@@ -1,2 +1,18 @@
-123
-asd
+.head {
+    background-color: beige;
+    padding: 100px;
+}
+.zagolovok {
+    color: black;
+}
+.avatar {
+    width: 300px;
+}
+
+.range1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.range2 {
+    font: italic normal normal 14px Arial, Helvetica, sans-serif;
+}
