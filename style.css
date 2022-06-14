@@ -173,6 +173,9 @@ justify-content: center;
 
 .footer-rss {
 display: flex;
-width: 400px;
 justify-content: center;
+max-width: 100px;
+}
+.img {
+width: 100%;
 }
