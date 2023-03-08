@@ -9,7 +9,7 @@
 ## **About me:**
 I like to read books, listen to music, watch films, go in for sports. I am learning English on my own, mastering Front-End development.
 
-## **Slills:**
+## **Skills:**
 * *HTML;*
 * *CSS;*
 * *Java Script.*
@@ -31,4 +31,4 @@ I like to read books, listen to music, watch films, go in for sports. I am learn
 * *Russian:* Native.
 
 *Rolling Scopes School,*
-*2022*
+*2023*
